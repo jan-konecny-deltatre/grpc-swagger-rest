@@ -1,0 +1,22 @@
+﻿{
+  //"iisSettings": {
+  //  "windowsAuthentication": false,
+  //  "anonymousAuthentication": true,
+  //  "iisExpress": {
+  //    "applicationUrl": "http://localhost:52105/",
+  //    "sslPort": 44365
+  //  }
+  //},
+  "profiles": {
+    "GrpcRestExample": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+     // "applicationUrl": "http://localhost:5013;https://localhost:7013",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

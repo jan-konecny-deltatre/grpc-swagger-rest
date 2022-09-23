@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EBj1ZVUxHeqpXYdHMkPeFCQdkkaTsFBGg5r+DiDVXnA=",
+  "Source": "GrpcRestExample",
+  "BasePath": "_content/GrpcRestExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
